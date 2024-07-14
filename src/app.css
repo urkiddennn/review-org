@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body-light {
+	background-color: #ffffff;
+	color: #333333;
+}
+
+/* Define dark mode colors */
+.body-dark {
+	background-color: #333333;
+	color: #ffffff;
+}
